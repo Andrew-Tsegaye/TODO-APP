@@ -2,7 +2,7 @@
 
 This app is a highly animated and user-friendly to-do app that helps users manage their tasks and deadlines with ease. It features a clean and intuitive interface that makes it easy to add, edit, and complete tasks. The app also includes dynamic animations and interactions that enhance the user experience and make it more engaging. Built with technologies such as JavaScript, HTML, and CSS, this to-do app is a fast and reliable app that can help users stay organized and on top of their to-do list.
 
-![Todo App](https://i.imgur.com/Rvn1rcK.png)
+![Todo App](https://i.imgur.com/PdfQZCp.png)
 
 ## Features
 
