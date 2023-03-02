@@ -32,5 +32,4 @@ If you setup your JavaScript using vite you can deploy this project using
 ```
 
 ## Author
-
-- [@Andrew-Tsegaye](https://www.github.com/Andrew-Tsegaye)
+[Andrew-Tsegaye](https://www.github.com/Andrew-Tsegaye)
